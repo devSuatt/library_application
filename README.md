@@ -2,7 +2,7 @@
 
 A simple library application developed using javascript ES6 
 
-* Book data is saved to local storage and pulled from there.
+* Book data is saved to Local Storage and pulled from there.
 * A simple library application where CRUD operations are implemented.
 * books can be added with their names and authors and books are listed. Then books can be deleted from the list. 
 <br>
