@@ -1,0 +1,5 @@
+*.min.js linguist-detectable=false
+*.min.css linguist-detectable=false
+*.min.* linguist-detectable=false
+*.bundle.js linguist-detectable=false
+*.bundle.css linguist-detectable=false
