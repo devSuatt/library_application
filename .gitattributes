@@ -7,3 +7,4 @@
 *.min.js binary
 *.bundle.css binary
 *.min.css binary
+linguist-vendored
