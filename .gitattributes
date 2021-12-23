@@ -3,3 +3,7 @@
 *.min.* linguist-detectable=false
 *.bundle.js linguist-detectable=false
 *.bundle.css linguist-detectable=false
+*.bundle.js binary
+*.min.js binary
+*.bundle.css binary
+*.min.css binary
